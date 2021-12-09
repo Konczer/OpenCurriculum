@@ -4,6 +4,6 @@ This document is a summary based on my experience as a Mentor at the [Milestone 
 
 Hopefully, this document will be helpful not only for those, who have similar interests to me, but it can bring us one step further towards a society, where more experienced people share their knowledge with younger ones, and where quality education is a shared value and a social enterprise.
 
-[Document](https://raw.githubusercontent.com/Konczer/OpenCurriculum/main/Open_Curriculum_and_Mentoring.pdf)
+## [Document](https://raw.githubusercontent.com/Konczer/OpenCurriculum/main/Open_Curriculum_and_Mentoring.pdf)
 
 
