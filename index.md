@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# Open and Subjective Curriculum
 
-You can use the [editor on GitHub](https://github.com/Konczer/OpenCurriculum/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This document is a summary based on my experience as a Mentor at the [Milestone Institute](https://milestone-institute.org/), and as a former high school student at a Hungarian school in Slovakia, and University student at [BUTE](https://www.bme.hu/?language=en) and [ELTE](https://www.elte.hu/en/) in Budapest.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hopefully, this document will be helpful not only for those, who have similar interests to me, but it can bring us one step further towards a society, where more experienced people share their knowledge with younger ones, and where quality education is a shared value and a social enterprise.
 
-### Markdown
+[Document](konczer.github.io/Open_Curriculum_and_Mentoring.pdf)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Konczer/OpenCurriculum/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
