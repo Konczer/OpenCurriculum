@@ -6,4 +6,4 @@ Hopefully, this document will be helpful not only for those, who have similar in
 
 ## [Document](https://raw.githubusercontent.com/Konczer/OpenCurriculum/main/Open_Curriculum_and_Mentoring.pdf)
 
-
+## [Overleaf project](https://www.overleaf.com/read/vjhvckyttxxx)
