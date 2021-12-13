@@ -1,6 +1,8 @@
 theme: jekyll-theme-minimal
 logo: /assets/img/WordCloud.png
 
+google_analytics: UA-215213040-1
+
 plugins:
   - jekyll-analytics
 
