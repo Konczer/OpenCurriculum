@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 logo: /assets/img/WordCloud.png
 jekyll_analytics:
   GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: G-05HMCNBD6Z        # Required - replace with your tracking id
+    id: UA-215213040-1        # Required - replace with your tracking id
     anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
